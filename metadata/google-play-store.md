@@ -1,13 +1,13 @@
 # Google Play Store Metadata
 
 ## App Name (50 chars max)
-SeaWise Voyager — Maritime Calculator
+SeaWise — Maritime Calculator
 
 ## Short Description (80 chars max)
 Port-to-port distance, fuel, time & cost calculator for maritime voyages.
 
 ## Full Description
-SeaWise Voyager is a port-to-port distance and fuel consumption calculator built for maritime professionals. Enter your origin and destination ports, configure your vessel's speed and burn rate, and get precise calculations for distance in nautical miles, total fuel consumption, estimated travel time, and voyage cost.
+SeaWise is a port-to-port distance and fuel consumption calculator built for maritime professionals. Enter your origin and destination ports, configure your vessel's speed and burn rate, and get precise calculations for distance in nautical miles, total fuel consumption, estimated travel time, and voyage cost.
 
 Key Features:
 

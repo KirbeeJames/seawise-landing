@@ -1,4 +1,4 @@
-// SeaWise Voyager Landing Page
+// SeaWise Landing Page
 
 // Scroll-triggered fade-in animations
 const observer = new IntersectionObserver((entries) => {

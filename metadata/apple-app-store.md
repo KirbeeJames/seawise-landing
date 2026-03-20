@@ -1,7 +1,7 @@
 # Apple App Store Metadata
 
 ## App Name
-SeaWise Voyager
+SeaWise
 
 ## Subtitle (30 chars max)
 Port-to-Port Distance & Fuel
@@ -17,7 +17,7 @@ maritime,route planner,fuel calculator,nautical miles,voyage,shipping,sea route,
 Calculate port-to-port distance, fuel consumption, travel time and cost for any maritime voyage. AI-powered route planning included.
 
 ## Description
-SeaWise Voyager is a port-to-port distance and fuel consumption calculator built for maritime professionals. Enter your origin and destination ports, configure your vessel's speed and burn rate, and get precise calculations for distance in nautical miles, total fuel consumption, estimated travel time, and voyage cost.
+SeaWise is a port-to-port distance and fuel consumption calculator built for maritime professionals. Enter your origin and destination ports, configure your vessel's speed and burn rate, and get precise calculations for distance in nautical miles, total fuel consumption, estimated travel time, and voyage cost.
 
 Key Features:
 
